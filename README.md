@@ -5,6 +5,7 @@
 
 [![License](https://img.shields.io/badge/license-Sovereign%20Safe%20Zone-blue)](./LICENSE.md)
 [![Language](https://img.shields.io/badge/language-Rust-orange)](https://www.rust-lang.org/)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19772641.svg)](https://doi.org/10.5281/zenodo.19772641)
 
 ---
